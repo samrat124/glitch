@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "name": "samrat",
+      "age": 26,
+      "gender": "male",
+      "country": "India",
+      "profession": "Student"
+      }
+  ]
+}
